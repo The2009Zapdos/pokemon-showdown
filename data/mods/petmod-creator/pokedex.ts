@@ -1,7 +1,7 @@
 {[k: string]: ModdedSpeciesData} = {
 
   // THIS IS WHERE NEW / EDITED POKEMON DATA GOES
- 
+
 rotom: {
         num: 479,
         name: "Rotom",
